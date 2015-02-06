@@ -4,7 +4,7 @@
 
 Name:		php-pear-%{upstream_name}
 Version:	0.5.0
-Release:	8
+Release:	9
 Summary:	DB drivers for LDAP v2 and v3 database
 License:	PHP License
 Group:		Development/PHP
