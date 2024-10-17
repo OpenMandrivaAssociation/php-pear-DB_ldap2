@@ -8,7 +8,7 @@ Release:	9
 Summary:	DB drivers for LDAP v2 and v3 database
 License:	PHP License
 Group:		Development/PHP
-URL:		http://pear.php.net/package/DB_ldap2/
+URL:		https://pear.php.net/package/DB_ldap2/
 Source0:	http://download.pear.php.net/package/%{upstream_name}-%{version}.tgz
 Requires(post): php-pear
 Requires(preun): php-pear
